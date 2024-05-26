@@ -50,6 +50,21 @@
 <p align="center">
   <a href="https://portafolio-b65f5.web.app/"><img src="https://img.shields.io/badge/🌐-Mi_Portafolio-000000?style=for-the-badge" alt="Portafolio"/></a>
 </p>
+## Proyectos Destacados
+
+### Proyecto 1: Sistema de Gestión de Proyectos
+
+![Sistema de Gestión de Proyectos](project1_image.jpg)
+
+Este proyecto es un Sistema de Gestión de Proyectos desarrollado con tecnologías Full Stack. Permite a los usuarios crear, asignar y dar seguimiento a tareas, así como gestionar recursos y plazos. Está construido utilizando Node.js, Express.js en el backend, y React.js en el frontend. Además, se integra con bases de datos SQL y NoSQL para almacenar y gestionar la información de manera eficiente.
+
+---
+
+### Proyecto 2: Aplicación Móvil de Noticias
+
+![Aplicación Móvil de Noticias](project2_image.jpg)
+
+Esta aplicación móvil de noticias ofrece a los usuarios una experiencia intuitiva para mantenerse actualizados con las últimas noticias. Desarrollada con Flutter, la aplicación proporciona una interfaz elegante y fluida, permitiendo a los usuarios personalizar sus preferencias y recibir notificaciones sobre temas de su interés. La integración con APIs de noticias garantiza la entrega de contenido fresco y relevante en tiempo real.
 
 
 
