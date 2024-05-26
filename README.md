@@ -1,4 +1,22 @@
-## Hi there 👋
+![Banner](URL_DE_TU_IMAGEN_DE_BANNER)
+
+<h1 align="center">Hi there 👋, I'm [Tu Nombre]</h1>
+
+<p align="center">
+  🚀 Desarrollador Full Stack Web y Móvil 🌐📱
+</p>
+
+<p align="center">
+  Bienvenido a mi repositorio de GitHub! Aquí encontrarás proyectos innovadores en desarrollo web y móvil, desde frontend hasta backend.
+</p>
+
+<p align="center">
+  <b>Tecnologías:</b> React, Node.js, Django, Flutter, MongoDB
+</p>
+
+<p align="center">
+  <a href="https://portafolio-b65f5.web.app/">🌐 Mi Portafolio</a>
+</p>
 
 <!--
 **blackrose99/blackrose99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
