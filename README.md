@@ -14,9 +14,9 @@
   Bienvenido a mi repositorio de GitHub! Aquí encontrarás proyectos innovadores en desarrollo web y móvil, desde frontend hasta backend.
 </p>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=blackrose99&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Tus estadísticas de GitHub" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrose99&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" alt="Tus lenguajes principales de GitHub" />
 </div> 
 
 <p align="center">
@@ -97,11 +97,11 @@
 
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=blackrose99&theme=tokyonight_duo&hide_border=true"
 </p>
 
 <h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackrose99&theme=github_dark" />
 </p>
 
 
