@@ -1,13 +1,8 @@
-<head>
-  <style>
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
 
-</head>
 <h1 align="center">Hi there 👋, I'm Luis Manuel Castaño</h1>
-
+<p align="center">
+  <img src="bandera" alt="Banner" style="width: 700px; height: auto; transition: transform 0.2s ease-in-out;">
+</p>
 <p align="center">
   🚀 <strong>Desarrollador Full Stack Web y Móvil</strong> 🌐📱
 </p>
@@ -15,9 +10,7 @@
 <p align="center">
   Bienvenido a mi repositorio de GitHub! Aquí encontrarás proyectos innovadores en desarrollo web y móvil, desde frontend hasta backend.
 </p>
-<p align="center">
-  <img src="bandera" alt="Banner" style="width: 200px; height: auto; transition: transform 0.2s ease-in-out;">
-</p>
+
 <p align="center">
   <b>Tecnologías:</b>
 </p>
