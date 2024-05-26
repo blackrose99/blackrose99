@@ -53,12 +53,10 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="48" title="Java">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="Node.js">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="48" title="SbringBoot">   
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="48" title="Ruby">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48" title="Django">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="48" title="Laravel">   
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">    
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">  
