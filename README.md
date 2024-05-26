@@ -38,14 +38,9 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="JavaScript">   
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailwindCSS">   
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48" title="Material-UI">   
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">  
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap">  
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="Styled Components">  
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD">   
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48" title="Vite">  
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">  
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel">  
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">   
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Visual Studio Code">   
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
@@ -57,25 +52,18 @@
   <p align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="48" title="Java">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="Node.js">   
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="48" title="Nest.js">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="48" title="SbringBoot">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="48" title="Ruby">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">   
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask.svg" width="48" title="Flask">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48" title="Django">   
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/.NET.svg" width="48" title=".NET">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="48" title="Laravel">   
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">    
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C++.svg" width="48" title="C++">   
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">   
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL.svg" width="48" title="PostgreSQL">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">  
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">   
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis.svg" width="48" title="Redis">   
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">   
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Websockets.svg" width="48" title="Websockets">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">   
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="48" title="Kubernetes">   
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   
