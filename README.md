@@ -1,4 +1,4 @@
-![Banner](URL_DE_TU_IMAGEN_DE_BANNER)
+![Banner](bandera)
 
 <h1 align="center">Hi there 👋, I'm [Tu Nombre]</h1>
 
