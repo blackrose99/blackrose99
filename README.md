@@ -1,20 +1,27 @@
 
 <h1 align="center">Hi there 👋, I'm Luis Manuel Castaño</h1>
 <p align="center">
-  <img src="bandera" alt="Banner" style="width: 700px; height: auto; transition: transform 0.2s ease-in-out;">
+  <img src="#" alt="Banner" style="width: 700px; height: auto; transition: transform 0.2s ease-in-out;">
 </p>
 <p align="center">
   🚀 <strong>Desarrollador Full Stack Web y Móvil</strong> 🌐📱
+</p>
+<p align="center">
+  <a href="https://portafolio-b65f5.web.app/"><img src="https://img.shields.io/badge/🌐-Mi_Portafolio-000000?style=for-the-badge" alt="Portafolio"/></a>
 </p>
 
 <p align="center">
   Bienvenido a mi repositorio de GitHub! Aquí encontrarás proyectos innovadores en desarrollo web y móvil, desde frontend hasta backend.
 </p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
 
 <p align="center">
   <b>Tecnologías:</b>
 </p>
-
 <table align="center">
   <tr>
     <td align="center"><strong>Frontend</strong></td>
@@ -22,49 +29,79 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+      <p align="center">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.js"> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.js">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.js">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="JavaScript">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">    
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailwindCSS">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48" title="Material-UI">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="Styled Components">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48" title="Vite">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Visual Studio Code">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="GitHub">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="Stack Overflow">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   
+      </p>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/RPA-FF6F00?style=for-the-badge&logo=rpa&logoColor=white" alt="RPA"/>
-      <img src="https://img.shields.io/badge/Rocketbot-FF6F00?style=for-the-badge&logo=rocketbot&logoColor=white" alt="Rocketbot"/>
+      <p align="center">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java.svg" width="48" title="Java">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="Node.js">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="48" title="Nest.js">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="Three.js">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow">  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="48" title="Ruby">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RubyOnRails.svg" width="48" title="Ruby on Rails">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python.svg" width="48" title="Python">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask.svg" width="48" title="Flask">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48" title="Django">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Csharp.svg" width="48" title="C#">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/.NET.svg" width="48" title=".NET">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP.svg" width="48" title="PHP">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel.svg" width="48" title="Laravel">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony.svg" width="48" title="Symfony"> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C++.svg" width="48" title="C++">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="48" title="C">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL.svg" width="48" title="MySQL">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL.svg" width="48" title="PostgreSQL">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis.svg" width="48" title="Redis">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL.svg" width="48" title="GraphQL">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Websockets.svg" width="48" title="Websockets">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="48" title="Kubernetes">   
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux.svg" width="48" title="Linux">   
+      </p>
     </td>
   </tr>
 </table>
+   
+       
+
 
 <p align="center">
-  <a href="https://portafolio-b65f5.web.app/"><img src="https://img.shields.io/badge/🌐-Mi_Portafolio-000000?style=for-the-badge" alt="Portafolio"/></a>
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
 </p>
-## Proyectos Destacados
 
-### Proyecto 1: Sistema de Gestión de Proyectos
-
-![Sistema de Gestión de Proyectos](project1_image.jpg)
-
-Este proyecto es un Sistema de Gestión de Proyectos desarrollado con tecnologías Full Stack. Permite a los usuarios crear, asignar y dar seguimiento a tareas, así como gestionar recursos y plazos. Está construido utilizando Node.js, Express.js en el backend, y React.js en el frontend. Además, se integra con bases de datos SQL y NoSQL para almacenar y gestionar la información de manera eficiente.
-
----
-
-### Proyecto 2: Aplicación Móvil de Noticias
-
-![Aplicación Móvil de Noticias](project2_image.jpg)
-
-Esta aplicación móvil de noticias ofrece a los usuarios una experiencia intuitiva para mantenerse actualizados con las últimas noticias. Desarrollada con Flutter, la aplicación proporciona una interfaz elegante y fluida, permitiendo a los usuarios personalizar sus preferencias y recibir notificaciones sobre temas de su interés. La integración con APIs de noticias garantiza la entrega de contenido fresco y relevante en tiempo real.
-
+<h1 align="center">Github Metrics </h1><p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
+</p>
 
 
