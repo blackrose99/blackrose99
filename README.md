@@ -1,3 +1,11 @@
+<head>
+  <style>
+  img:hover {
+    transform: scale(1.05);
+  }
+</style>
+
+</head>
 <h1 align="center">Hi there 👋, I'm Luis Manuel Castaño</h1>
 
 <p align="center">
@@ -52,8 +60,3 @@
 
 
 
-<style>
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
