@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi there 👋, I'm Luis Manuel Castaño</h1>
 <p align="center">
   <img src="Bandera" alt="Banner" style="width: 700px; height: auto; transition: transform 0.2s ease-in-out;">
 </p>
